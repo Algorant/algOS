@@ -4,6 +4,10 @@
   <img alt="algOS" src="images/algOS/algOS-patina-dark-1280.png">
 </picture>
 
+A tailored Omarchy/Arch setup.
+
+## Showcase
+
 <p>
 <a href="images/desktop.png"><img alt="desktop with the omarchy menu" src="images/thumbs/hero-desktop.jpg" width="260"></a>
 <a href="images/workstation.png"><img alt="terminal and editor side by side" src="images/thumbs/hero-workstation.jpg" width="260"></a>
