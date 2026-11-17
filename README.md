@@ -31,4 +31,6 @@
   </details>
 - theme: [verdigris](https://github.com/Algorant/verdigris)
 
+## License
+
 [MIT](LICENSE)
