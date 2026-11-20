@@ -13,23 +13,8 @@ overview and window switching on omarchy's scrolling layout.
 
 ## Showcase
 
-<table>
-<tr>
-<td width="50%">
-
-https://github.com/user-attachments/assets/e7608000-ce65-4e86-b62c-4cca13f0be3a
-
-Scrolling window transitions
-
-</td>
-<td width="50%">
-
 https://github.com/user-attachments/assets/01aaa311-7b1a-4a56-9fdc-c0c985d56a97
 
 Omari window switching · Super+Tab and Alt+Tab
-
-</td>
-</tr>
-</table>
 
 [back to the guide](../../README.md)
